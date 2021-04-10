@@ -2,7 +2,7 @@
 - Notebooks for Price Regression and Sentiment Analysis
 - With much of the AirBnB app targeted at consumers, our model intends to create another dimension to help AirBnB hosts instead.
 - These models will help owners price their accomodations appropriately with the given features and sieve out negative reviews to notify owers for improvement.
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/77097236/114257910-a76e6800-99f5-11eb-9eca-09560e2c5380.png)
 
 ## Notebooks
 ### airbnb_EDA_final
